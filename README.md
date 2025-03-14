@@ -1,3 +1,5 @@
+<img src="exported_qrcode_image_600 (1).png" width=100 height=100/>
+
 |      履歷        |<img src="https://avatars.githubusercontent.com/u/22648375?v=4" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
 | 姓名             | 林逢霖                  |
