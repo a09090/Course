@@ -12,3 +12,10 @@
 <a href="https://www.youtube.com/watch?v=Kb6b92Lb-yA" target="_blank"><img src="http://img.youtube.com/vi/Kb6b92Lb-yA/0.jpg" 
 alt="【運動員球品大比拼，丹麥VS台灣】" width="800" height="500" border="10" /></a>
 <br>影片取自 youtube
+
+ <details>
+ <summary>
+外面
+ </summary>
+ 裡面的東西
+ </details>
